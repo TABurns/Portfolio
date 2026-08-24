@@ -15,8 +15,8 @@
 | Project                                                             | Tools                                  | Summary                                                                                                                                                                                                  |
 | ------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Inventory Assistant](https://github.com/TABurns/InventoryAssistant-Public) | Python, Flet, Polars, SQL Server, Domo | Scanner-first Windows application for capturing component-reel inventory, maintaining recoverable scan sessions, tracking progress, reconciling external data, and producing standardized Excel reports. |
-| [SLink](SECURE_LINK_REPOSITORY_URL)                                  | Add after repository audit             | Add the final problem-focused description after the SLink repository has received the same portfolio preparation as Inventory Assistant.                                                                 |
-| [ETL](PROJECT_REPOSITORY_URL)                              | Primary technologies                   | One or two sentences explaining the problem, solution, and most important technical capability demonstrated by the project.                                                                              |
+| [SLink](SECURE_LINK_REPOSITORY_URL)                                  | Add after repository audit             | final problem-focused description after the SLink repository has received the same portfolio preparation as Inventory Assistant.                                                                 |
+| [ETL](PROJECT_REPOSITORY_URL)                              |                   |                                                                              |
 
 
 
