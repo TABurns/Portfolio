@@ -1,8 +1,7 @@
 <div align="center">
 
-# Tyler Burns — Portfolio
+## Tyler Burns — Portfolio
 
-## About This Portfolio
 
 **This repository serves as an index of selected projects.**
 **Each project is presented as a cleaned, curated snapshot of the original work,**
