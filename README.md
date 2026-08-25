@@ -15,7 +15,7 @@
 | --- | --- | --- |
 | [Inventory Assistant](https://github.com/TABurns/InventoryAssistant) | Python, Flet, Polars, SQL Server, Domo | Scanner-first Windows application for capturing component-reel inventory, maintaining recoverable scan sessions, tracking progress, reconciling external data, and producing standardized Excel reports. |
 | [Secure Link Extract](https://github.com/TABurns/SecureLinkExtract-Public) | Python, asyncio, Playwright, Polars, Parquet, Domo | Windows enterprise ETL application that automates authenticated report extraction through a secure-access gateway, applies failure-aware Polars transformations, and publishes complete datasets to Domo. |
-| [Third Project](PROJECT_REPOSITORY_URL) | Primary technologies | One or two sentences explaining the problem, solution, and most important technical capability demonstrated by the project. |
+| [ETL Portfolio](https://github.com/TABurns/ETL-Public) | Python, Polars, Jupyter, Parquet, SQL Server | Three self-contained ETL notebooks using synthetic manufacturing data to demonstrate incremental history merges, multi-source enrichment, labor allocation, data-quality validation, and reproducible Parquet outputs. |
 
 ## Areas of Work
 
