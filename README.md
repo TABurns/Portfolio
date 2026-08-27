@@ -5,7 +5,6 @@
 **Selected Python, data engineering, analytics, and automation projects**
 
 [GitHub Profile](https://github.com/TABurns) ·
-[LinkedIn](YOUR_LINKEDIN_URL)
 
 </div>
 
@@ -30,8 +29,3 @@ This repository is an index of selected projects. Each project remains in its
 original repository, where you can review its source code, documentation,
 architecture, tests, and development history.
 
-## Contact
-
-[GitHub](https://github.com/TABurns) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](mailto:YOUR_EMAIL)
